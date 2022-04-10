@@ -1,0 +1,4 @@
+Hello
+This is a sample text
+THis is OS Lab 1
+End
